@@ -47,7 +47,7 @@ Total users with failed logins: 2
 Total failed attempts: 18
 
 ============================================================
-🚨 BRUTE FORCE ATTACKS DETECTED
+BRUTE FORCE ATTACKS DETECTED
 ============================================================
 
 User: root
